@@ -1,0 +1,13 @@
+.row {
+    outline: #4CAF50 solid 3px;
+    padding: 5px;
+}
+
+.jumbotron {
+    background-image: url("../images/bacteria2_22324_lg.gif");
+    background-size: 100% 100%;
+    text-align: center;
+    text-shadow: 1px 1px 3px limegreen,
+                 10px 10px 50px green,
+                 1px 1px 30px lime;
+}
